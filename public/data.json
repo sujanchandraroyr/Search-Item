@@ -1,0 +1,93 @@
+[
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S20",
+      "display_size": "6.2 inches",
+      "storage": "128GB",
+      "ram": "8GB",
+      "processor": "Exynos 990",
+      "price": "$999"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 12 Pro",
+      "display_size": "6.1 inches",
+      "storage": "256GB",
+      "ram": "6GB",
+      "processor": "A14 Bionic",
+      "price": "$1099"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Pixel 5",
+      "display_size": "6.0 inches",
+      "storage": "128GB",
+      "ram": "8GB",
+      "processor": "Snapdragon 765G",
+      "price": "$699"
+    },
+    {
+      "brand": "Samsung",
+      "model": "8T",
+      "display_size": "6.55 inches",
+      "storage": "256GB",
+      "ram": "12GB",
+      "processor": "Snapdragon 865",
+      "price": "$749"
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 10T Pro",
+      "display_size": "6.67 inches",
+      "storage": "256GB",
+      "ram": "8GB",
+      "processor": "Snapdragon 865",
+      "price": "$699"
+    },
+    {
+      "brand": "Apple",
+      "model": "P40 Pro",
+      "display_size": "6.58 inches",
+      "storage": "256GB",
+      "ram": "8GB",
+      "processor": "Kirin 990",
+      "price": "$999"
+    },
+    {
+      "brand": "Apple",
+      "model": "Xperia 1 II",
+      "display_size": "6.5 inches",
+      "storage": "256GB",
+      "ram": "8GB",
+      "processor": "Snapdragon 865",
+      "price": "$1199"
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Edge+",
+      "display_size": "6.7 inches",
+      "storage": "256GB",
+      "ram": "12GB",
+      "processor": "Snapdragon 865",
+      "price": "$999"
+    },
+    {
+      "brand": "ASUS",
+      "model": "ROG Phone 5",
+      "display_size": "6.78 inches",
+      "storage": "256GB",
+      "ram": "16GB",
+      "processor": "Snapdragon 888",
+      "price": "$999"
+    },
+    {
+      "brand": "Apple",
+      "model": "Velvet",
+      "display_size": "6.8 inches",
+      "storage": "128GB",
+      "ram": "8GB",
+      "processor": "Snapdragon 765G",
+      "price": "$599"
+    }
+  ]
+  
